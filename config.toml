@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "Hi, I'm Whitney M. Marks"
 author = "Whitney Marks"
 #copyright = "2020-2021"
-description = "I am a data strategist and programmer. I was introduced to R in 2017 and began coding in R and SQL in 2018, and I love being a part of the R community. I have over time come to understand how the art of good programming can be essential to effective and efficient data analysis and operational improvement, so I have leaned into continuously learning to be better at it. Follow me on Twitter, and see my projects on Github."
+description = "I am a data strategist and programmer."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -67,7 +67,7 @@ url = "https://github.com/whitneymichelle"
 icon = "fab fa-twitter"
 title = "twitter"
 url = "https://www.twitter.com/whitneymmrx"
-
+ren
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
@@ -94,6 +94,8 @@ theme= "github-light"
   identifier = "posts"
   url = "/post/"
 
-
-
-
+  [[menu.main]]
+  name = "About"
+  weight = 200
+  identifier = "about"
+  url = "/about/"
