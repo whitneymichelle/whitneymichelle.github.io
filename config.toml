@@ -1,4 +1,4 @@
-baseURL = "whitneymichelle.github.io"
+baseURL = "angry-cori-ef6b41.netlify.app"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Website of Whitney M. Marks"
@@ -29,7 +29,7 @@ favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
-customJs = [] 
+customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = true
@@ -95,5 +95,5 @@ theme= "github-light"
   url = "/post/"
 
 
- 
-  
+
+
