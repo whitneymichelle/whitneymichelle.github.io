@@ -30,7 +30,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-mainSections = ["post"]
+mainSections = []
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = true
 # Form Spree Contact Form
@@ -81,12 +81,6 @@ theme= "github-light"
 ## Menu items
 
 [menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
 
   [[menu.main]]
   name = "Posts"
