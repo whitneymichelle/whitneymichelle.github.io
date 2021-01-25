@@ -19,14 +19,14 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "I'm Whitney Marks"
+title = "@whitneymmrx"
 author = "Whitney Marks"
 #copyright = "2020-2021"
-description = "I am a data strategist and programmer."
+description = "Hi, I'm Whitney Marks, a data strategist and programmer."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
-# example ["css/custom.css"]
+#example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
 customJs = []
