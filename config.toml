@@ -67,7 +67,7 @@ url = "https://github.com/whitneymichelle"
 icon = "fab fa-twitter"
 title = "twitter"
 url = "https://www.twitter.com/whitneymmrx"
-ren
+
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
@@ -96,6 +96,6 @@ theme= "github-light"
 
   [[menu.main]]
   name = "About"
-  weight = 200
+  weight = 300
   identifier = "about"
   url = "/about/"
