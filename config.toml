@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 title = "@whitneymmrx"
 author = "Whitney Marks"
 #copyright = "2020-2021"
-description = "Hi, I'm Whitney Marks, a data strategist ."
+description = "I'm Whitney Marks, a data strategist."
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -30,7 +30,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = []
-mainSections = []
+mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = true
 # Form Spree Contact Form
@@ -83,10 +83,16 @@ theme= "github-light"
 [menu]
 
   [[menu.main]]
+  name = "Home"
+  weight = 200
+  identifier = "home"
+  url = "/"
+
+  [[menu.main]]
   name = "Posts"
   weight = 200
   identifier = "posts"
-  url = "/post/"
+  url = "/posts/"
 
   [[menu.main]]
   name = "About"

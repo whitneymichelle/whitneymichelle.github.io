@@ -1,37 +1,38 @@
 ---
-title: Automating Student Lists
+title: Automation and Purrr's Group Walk
 author: Whitney M. Marks
-date: '2021-01-24'
+date: '2021-01-25'
 slug: []
 categories:
-  - How would you code it
-tags:
-  - code
   - process improvement
+  - automating tasks
+  - code snippets
+tags:
+  - coding
+  - process improvement
+  - automation
+  - purrr
 Description: ''
 Tags: []
 Categories: []
 DisableComments: no
 ---
 
-### How would you code it?
-
 #### Brief Problem Description:
 
 The purpose of this code is to provide student lists to colleges for a particular department during the enrollment cycle, which had previously been a manual process for an office staff member. I was asked to automate it.
 
-I pulled and cleaned the student information from SQL Server and produced `enrolled_clean`, the starting point of the below code.
+I pulled and cleaned the student information from SQL Server using the odbc library and produced `enrolled_clean`, the starting point of the below code.
 
 The task is to ensure:
 - The student lists are segmented by college, term, session, section number, and faculty member
 - The name of the file would have important identifying class information
 - The DD or dynamically dated session, the second snippet, would also need the start month of the course in the file name to help staff identify the correct file
-- The output would be a CSV file written to SharePoint 
+- The output would be a CSV file written to SharePoint into the correct college's folder
 
-The script is run on windows task scheduler during enrollment periods so that the lists will be updated daily.
+The script is run on Windows task scheduler during enrollment periods so that the lists will be updated daily.
 
 #### Code I Wrote:
-
 
 ```{r}
 #write files for synchronous sessions
@@ -51,5 +52,4 @@ enrolled_clean %>%
 
 ```
 
-#### How would you have tackled this problem with code? 
 
