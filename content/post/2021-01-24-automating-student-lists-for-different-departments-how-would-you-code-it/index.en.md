@@ -1,5 +1,5 @@
 ---
-title: Automating Student Lists, How Would You Code It?
+title: Automating Student Lists
 author: Whitney M. Marks
 date: '2021-01-24'
 slug: []
@@ -14,13 +14,15 @@ Categories: []
 DisableComments: no
 ---
 
+### How would you code it?
+
 #### Brief Problem Description:
 
 The purpose of this code is to provide student lists to colleges for a particular department during the enrollment cycle, which had previously been a manual process for an office staff member. I was asked to automate it.
 
 I pulled and cleaned the student information from SQL Server and produced `enrolled_clean`, the starting point of the below code.
 
-**The task is to ensure:**
+The task is to ensure:
 - The student lists are segmented by college, term, session, section number, and faculty member
 - The name of the file would have important identifying class information
 - The DD or dynamically dated session, the second snippet, would also need the start month of the course in the file name to help staff identify the correct file
