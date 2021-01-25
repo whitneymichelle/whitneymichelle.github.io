@@ -19,7 +19,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "Hi, I'm Whitney M. Marks"
+title = "I'm Whitney Marks"
 author = "Whitney Marks"
 #copyright = "2020-2021"
 description = "I am a data strategist and programmer."
