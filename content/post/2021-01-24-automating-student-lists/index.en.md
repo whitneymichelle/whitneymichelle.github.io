@@ -18,6 +18,8 @@ Categories: []
 DisableComments: no
 ---
 
+The purpose of this post is to explore a work problem that was solved with programming. In this case, the work problem I solved was not complex in terms of programming but, even so, eased hours of work from a few staff members.
+
 #### Brief Problem Description:
 
 The purpose of this code is to provide student lists to colleges for a particular department during the enrollment cycle, which had previously been a manual process for an office staff member. I was asked to automate it.
@@ -35,6 +37,8 @@ The script is run on Windows task scheduler during enrollment periods so that th
 #### Code I Wrote:
 
 ```{r}
+library(tidyverse)
+
 #write files for synchronous sessions
 enrolled_clean %>%
   filter(session %in% c("A1", "A2", "A3", "A4", "O1")) %>%
