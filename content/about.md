@@ -15,4 +15,4 @@ I was introduced to R in 2017 and began coding in R and SQL in 2018, and I love 
 
 
 
-*This theme of this website is from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).*
+*The theme of this website is from [lxndrblz/anatole](https://github.com/lxndrblz/anatole).*
