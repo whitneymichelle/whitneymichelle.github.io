@@ -1,13 +1,12 @@
 ---
-title: Data Teams and Lunch and Learns
-author: Whitney M. Marks
+title: "Data Teams and Lunch and Learns"
+author: "Whitney M. Marks"
 date: '2021-01-27'
 slug: []
 categories:
-  - soft skills
-  - data teams
-tags:
-  - soft skills data teams
+- soft skills
+- data teams
+tags: soft skills data teams
 Description: ''
 Tags: []
 Categories: []
