@@ -12,6 +12,8 @@ tags:
   - professional development
 ---
 
+Sometimes I get asked how I went from a career in academic advising to data analytics. In this post, I explain my career and data journey--including the opportunities I sought out and the ones stumbled upon.
+
 #### Programming beginnings
 
 Over the last few weeks, I’ve been reflecting on how I started down this programming and data analyst journey and also the tools I chose to learn and why. And before I started outlining this blog post, I thought I had first programmed anything at all in 2017. But now, I recall that I dabbled in some programming in 2015. I don’t even remember which language I was coding in (maybe Java), only that it was through a self-guided online program. I knew that I wanted to gain technical skills but didn’t exactly know how I ultimately wanted to apply those skills, and I believe that my programming stint only lasted several weeks to a few months. While I don’t exactly remember why I quit pursuing programming at that time, I can imagine it would be difficult to continue if the results of my work were not connected to a concrete project or goal. And at the time, the results of learning were not connected to anything concrete--only to an ephemeral thought that I wanted to program things. This ‘wanting to program things’ happened while I was still an academic advisor. After a few years of academic advising and a year or two of having the desire to be a programmer, I was promoted to a project coordinator position.
