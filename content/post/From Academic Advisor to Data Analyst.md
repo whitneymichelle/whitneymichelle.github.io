@@ -1,6 +1,6 @@
  
 ---
-title: From Academic Advisor to Data Analyst
+title: Advisor to Analyst
 author: Whitney M. Marks
 date: '2021-05-08'
 slug: []
