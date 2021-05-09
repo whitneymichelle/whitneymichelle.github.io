@@ -19,10 +19,10 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 [params]
-title = "@whitneymmrx"
+title = "Whitney Marks"
 author = "Whitney Marks"
 #copyright = "2020-2021"
-description = "I'm Whitney Marks, a data strategist."
+description = "data analyst | data developer"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -66,12 +66,12 @@ url = "https://github.com/whitneymichelle"
 [[params.socialIcons]]
 icon = "fab fa-twitter"
 title = "twitter"
-url = "https://www.twitter.com/whitneymmrx"
+url = "https://www.twitter.com/whitneyondata"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:wmmarks10@gmail.com"
+url = "mailto:whitneyondata@gmail.com"
 
 [params.utterances]
 repo = "whitneymichelle/whitneymichelle.github.io"
