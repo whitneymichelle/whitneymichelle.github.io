@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Website of Whitney M. Marks</title>
-    <link>https://whitneymichelle.netlify.app/post/</link>
-    <description>Recent content in Posts on Website of Whitney M. Marks</description>
+    <title>programming on Website of Whitney M. Marks</title>
+    <link>https://whitneymichelle.netlify.app/tags/programming/</link>
+    <description>Recent content in programming on Website of Whitney M. Marks</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://whitneymichelle.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://whitneymichelle.netlify.app/tags/programming/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From Academic Advisor to Data Analyst</title>
       <link>https://whitneymichelle.netlify.app/post/from-academic-advisor-to-data-analyst/</link>
