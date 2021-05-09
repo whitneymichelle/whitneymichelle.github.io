@@ -1,3 +1,4 @@
+ 
 ---
 title: From Academic Advisor to Data Analyst
 author: Whitney M. Marks
