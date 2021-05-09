@@ -1,7 +1,7 @@
 ---
 title: From Academic Advisor to Data Analyst
 author: Whitney M. Marks
-date: '2021-05-10'
+date: '2021-05-8'
 slug: []
 categories:
   - career journey

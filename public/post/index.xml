@@ -5,16 +5,6 @@
     <link>https://whitneymichelle.netlify.app/post/</link>
     <description>Recent content in Posts on Website of Whitney M. Marks</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sun, 24 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://whitneymichelle.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Automating Student Lists, How Would You Code It?</title>
-      <link>https://whitneymichelle.netlify.app/post/2021-01-24-automating-student-lists-for-different-departments-how-would-you-code-it/</link>
-      <pubDate>Sun, 24 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://whitneymichelle.netlify.app/post/2021-01-24-automating-student-lists-for-different-departments-how-would-you-code-it/</guid>
-      <description>Brief Problem Description: The purpose of this code is to provide student lists to colleges for a particular department during the enrollment cycle, which had previously been a manual process for an office staff member.</description>
-    </item>
-    
+    <language>en</language><atom:link href="https://whitneymichelle.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

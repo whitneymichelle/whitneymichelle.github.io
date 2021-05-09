@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://whitneymichelle.netlify.app/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whitneymichelle.netlify.app/post/2021-01-24-automating-student-lists-for-different-departments-how-would-you-code-it/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://whitneymichelle.netlify.app/post/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://whitneymichelle.netlify.app/about/</loc>
     <lastmod>2021-01-23T00:00:00+00:00</lastmod>
   </url>
@@ -33,11 +18,19 @@
   </url>
   
   <url>
+    <loc>https://whitneymichelle.netlify.app/</loc>
+  </url>
+  
+  <url>
     <loc>https://whitneymichelle.netlify.app/categories/</loc>
   </url>
   
   <url>
     <loc>https://whitneymichelle.netlify.app/tags/index/</loc>
+  </url>
+  
+  <url>
+    <loc>https://whitneymichelle.netlify.app/post/</loc>
   </url>
   
   <url>
