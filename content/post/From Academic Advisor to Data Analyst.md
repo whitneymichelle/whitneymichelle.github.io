@@ -1,6 +1,6 @@
  
 ---
-title: Advisor to Analyst
+title: How I Went From an Academic Advisor to a Data Analyst
 author: Whitney M. Marks
 date: '2021-05-08'
 slug: []
@@ -12,11 +12,9 @@ tags:
   - professional development
 ---
 
-### How I Went From an Academic Advisor to a Data Analyst
-
 #### Programming beginnings
 
-Over the last few weeks, I’ve been reflecting on how I started down this programming and data analyst journey and also the tools I chose to learn and why. And before I started outlining this blog post, I thought I had first programmed anything at all in 2017. But now, I recall that I dabbled in some programming in 2015. I don’t even remember which language I was coding in (maybe Java), only that it was through a self-guided online program. I knew that I wanted to gain technical skills but didn’t exactly know how I ultimately wanted to apply those skills, and I believe that my programming stint only lasted several weeks to a few months. While I don’t exactly remember why I quit pursuing programming at that time, I can imagine it would be difficult to continue if the results of my work were not connected to a concrete project or goal. And at the time, they were not connected to anything concrete--only to an ephemeral thought that I wanted to program things. This ‘wanting to program things’ happened while I was still an academic advisor. After a few years of academic advising and a year or two of having the desire to be a programmer, I was promoted to a project coordinator position.
+Over the last few weeks, I’ve been reflecting on how I started down this programming and data analyst journey and also the tools I chose to learn and why. And before I started outlining this blog post, I thought I had first programmed anything at all in 2017. But now, I recall that I dabbled in some programming in 2015. I don’t even remember which language I was coding in (maybe Java), only that it was through a self-guided online program. I knew that I wanted to gain technical skills but didn’t exactly know how I ultimately wanted to apply those skills, and I believe that my programming stint only lasted several weeks to a few months. While I don’t exactly remember why I quit pursuing programming at that time, I can imagine it would be difficult to continue if the results of my work were not connected to a concrete project or goal. And at the time, the results of learning were not connected to anything concrete--only to an ephemeral thought that I wanted to program things. This ‘wanting to program things’ happened while I was still an academic advisor. After a few years of academic advising and a year or two of having the desire to be a programmer, I was promoted to a project coordinator position.
 
 #### Pursuing a degree in data analytics
 
@@ -32,13 +30,13 @@ In these analytics courses, I used a variety of tools--including Minitab, SAS, K
 
 I started on my team with what, in hindsight, was perfect timing. Before I joined, the team was solely using the business intelligence to extract data. However, a short time before I joined the team had gained permission to start extracting data directly from the SQL database. The team was newly using this database, meaning access to more data than was available in the business intelligence tool. And the team was also learning SQL for the first time. Also, the team had mostly used SAS in the past but had recently hired someone who knew Python and found that they didn’t really care--at least for ad-hoc analyses--which programming language or tool we used. So I was free to use R--which I had gained familiarity with in my program--and happy to learn SQL--which I knew nothing about except for SELECT, FROM, and WHERE.
 
-And the data team I worked with was amazing and focused on making a strong team. The first director of the team that I worked with would ask me, “is there anything you want to work on?” And answering that question led me to work on a text analysis, to find the themes in some important--but previously untouched--qualitative data. I had never worked on analyzing text even when I suggested it as a project, but I learned about text analytics from a tidy perspective from [Tidy Text Mining](https://www.tidytextmining.com/). I learned about telling a data story from concrete feedback on one of my first data projects from a more senior member of the team. I had the opportunity to automate some previously manual processes. I also had the opportunity to manage an amazing intern. I had to learn how to manage a project and a person, to keep the project in scope and moving forward. But also, I learned even more technical skills and options from reading my intern’s code and from us bouncing ideas off of each other. With my intern, I built a predictive model. 
+And the data team I worked with was amazing and focused on making a strong team. The first director of the team that I worked with would ask me, “is there anything you want to work on?” And answering that question led me to work on a text analysis, to find the themes in some important--but previously untouched--qualitative data. I had never worked on analyzing text even when I suggested it as a project, but I learned about text analytics from a tidy perspective from [Tidy Text Mining](https://www.tidytextmining.com/). I learned about telling a data story from concrete feedback on one of my first data projects from a more senior member of the team. I had the opportunity to automate some previously manual processes. I also had the opportunity to manage an amazing intern. In managing an intern, I had to learn how to manage a project and a person, to keep the project in scope and moving forward. But also, I learned even more technical skills and options from reading my intern’s code and from us bouncing ideas off of each other. With my intern, I built a predictive model. 
 
 We as a data team became more sophisticated in our use of SQL over time. We started creating meaningful SQL views that we could connect to our business intelligence tool for end-users. These views were usually intended for operational use and tracking key metrics. We started having meetings about data quality and developing code standards and a code library. We shared knowledge informally and formally through Lunch and Learns.
 
 #### Self-directed learning
 
-But I also enjoyed learning on my own time. I took self-directed--free and cheap--online classes about R and SQL. I watched tutorials. And I was not afraid to try. I didn’t think I was a failure when I couldn’t figure something out. Well, sometimes I probably did think I was a failure, but I persevered. I either found a different way to do something or read documentation or fixed it magically the next morning (don’t code after midnight, if possible). And there’s a lot of pleasure in getting that thing, whatever that thing is, to finally work. When I finally got my first Shiny dashboard to work, there was reveling in my living room at 1:00am.
+But I also enjoyed learning on my own time. I took self-directed--free and cheap--online classes about R and SQL. I watched tutorials. And I was not afraid to try. I didn’t think I was a failure when I couldn’t figure something out. Well, sometimes I probably did think I was a failure, but I persevered. I either found a different way to do something or read documentation or fixed it magically the next morning (don’t code after midnight, if possible). And there’s a lot of pleasure in getting that thing, whatever that thing is, to finally work. When I finally got my first R Shiny dashboard to work, there was reveling in my living room at 1:00am.
 
 I graduated with my master’s in data analytics after four years. Shortly after, I started building my own personal projects on GitHub as a portfolio so that I could show my skill set in predictive analytics and also in using code to build efficiency. 
 
@@ -61,7 +59,7 @@ I think establishing and knowing good programming principles, even if you don't 
 And if you subscribe to [linguistic relativity](https://en.wikipedia.org/wiki/Linguistic_relativity),
 speaking or in this case programming in a certain language may make you think in a certain way. Imagine being able to think how you would solve a problem in R and then Python and then Julia (or something). That creates flexibility and perhaps breeds some creativity in problem-solving. The truth is that as far as tools and particularly as far as R or Python, it will probably end up being R and Python and SQL, if you’re lucky. 
 
-So if you were ever wondering how a person can go from academic advisor to data analyst and data developer, this is how I did it.
+So if you were ever wondering how a person can go from an academic advisor to a data analyst and data developer, this is how I did it.
 
 
 
