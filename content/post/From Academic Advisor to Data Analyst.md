@@ -10,6 +10,7 @@ categories:
 tags:
   - programming
   - professional development
+images: "images/site-feature-img.png"
 ---
 
 Sometimes I get asked how I went from a career in academic advising to data analytics. In this post, I explain my career and data journey--including the opportunities I sought out and the ones I stumbled upon.
